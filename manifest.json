@@ -1,7 +1,0 @@
-{
-  "name": "personal-website",
-  "short_name": "personal-website",
-  "description": "Personal website",
-  "start_url": "/",
-  "display": "standalone"
-}
