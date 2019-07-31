@@ -18,7 +18,7 @@ include_once('../templates/header.php');
                     <li>Improved my english</li>
                     <li>Rugby and surf</li>
                     <li>Being open-minded</li>
-                    <li>Rain resistance <i class="fas fa-tint"></i></li>
+                    <li>Rain resistance 💧</i></li>
                 </ul>
                 <h5 class="blogPost__headline">Courses</h5>
                 <ul class="blogPost__list">
@@ -28,12 +28,12 @@ include_once('../templates/header.php');
                     <li>C++ Programming</li>
                     <li>Introduction to security and cryptography</li>
                 </ul>
-                <div class="blogPost__iconContainer"><i class="fas fa-university"></i>
+                <div class="blogPost__iconContainer">🎓
                     <div class="iconContainerText"><a href="https://www.ul.ie/">University Website</a></div>
                 </div>
                 <br>
-                <div class="blogPost__iconContainer"><i class="fas fa-poll"></i>
-                    <div class="iconContainerText"><a href="../static/media/resultsLimerick.pdf">Semester marks</a></div>
+                <div class="blogPost__iconContainer">✍️
+                    <div class="iconContainerText"><a href="https://drive.google.com/file/d/18p0HztAp9gRHemkZ9pzii3tFoBqbrK0W/view?usp=sharing">Semester marks</a></div>
                 </div>
             </div>
         </div>

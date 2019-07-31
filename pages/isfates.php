@@ -20,13 +20,13 @@ include_once('../templates/header.php');
                             thesis.</li>
                     </ul>
                 </p>
-                <div class="blogPost__iconContainer"><i class="fas fa-university"></i>
+                <div class="blogPost__iconContainer">🎓
                     <div class="iconContainerText"><a href="https://www.dfhi-isfates.eu/wp-content/uploads/2018/04/Info_phone.pdf">University Curriculum</a>
                     </div>
-                </div><br> <br>
+                </div><br>
                 <p>In order to complete by bachelor, I had three months to write a bachelor thesis about sharing
                     styles between web components.</p>
-                <div class="blogPost__iconContainer"><i class="fas fa-pen-fancy"></i>
+                <div class="blogPost__iconContainer">✍️
                     <div class="iconContainerText"><a href="https://github.com/luiswill/bachelorWebComponentStyling/blob/master/thesis.pdf">Bachelor
                             Thesis</a></div>
                 </div>

@@ -4,7 +4,6 @@
 
 <script>
     function myFunction() {
-        console.log('hello world');
         var x = document.getElementById("myTopnav");
         if (x.className === "topnav") {
             x.className += " responsive";

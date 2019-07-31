@@ -54,20 +54,21 @@ include_once('../templates/header.php');
                     <li>Being flexible</li>
                 </ul>
                 <h5 class="blogPost__headline">Monthly reports</h5>
-                <div class="blogPost__iconContainer"><i class="far fa-folder-open"></i>
-                    <div class="iconContainerText"><a href="https://drive.google.com/drive/folders/1-wiTtVfuBwKKHii7pa0iUh1FM5jVA2ps?usp=sharing">Google
-                            Drive Folder</a></div>
+                <div class="blogPost__iconContainer">📁
+                    <div class="iconContainerText">
+                        <div class="iconContainerText"><a href="https://drive.google.com/drive/folders/1-wiTtVfuBwKKHii7pa0iUh1FM5jVA2ps?usp=sharing">Google
+                                Drive Folder</a></div>
+                    </div>
+
+
+                    <br><br><br><br>
                 </div>
-
-
-                <br><br><br><br>
             </div>
         </div>
     </div>
-</div>
 
-<?php
-include_once('../templates/footer.php');
-?>
+    <?php
+    include_once('../templates/footer.php');
+    ?>
 
-</html>
+    </html>

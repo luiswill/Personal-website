@@ -4,9 +4,9 @@ include_once('../templates/header.php');
 
 <div class="container">
     <h2 style="margin: 30px 0">Unique experience</h2>
-    <p>After completing my three-year bachelor in France/Germany, I had the chance to spend a two-month trip across some Southeast Asia countries, especially Thailand and Philippines.</p>
+    <p>After completing my three-year <a href="/pages/isfates.php">bachelor in France/Germany</a>, I had the chance to spend a two-month trip across some Southeast Asia countries, especially Thailand and Philippines.</p>
 
-    <p>I learned how other cultures, often poorer than my own country, live in their daily life. Meeting new people and discovering uncommon places teached me a lot of self-consciousness and ways of enjoying life.</p>
+    <p>I learned how other cultures, often poorer than my own country, live in their daily life. Meeting new people and traveling a foreign country alone taught me a lot of self-consciousness and ways of enjoying life.</p>
 
 
     <p>The month in Thailand was hot, party and beach.</p>
@@ -22,7 +22,7 @@ include_once('../templates/header.php');
     <p>Some pics of the trip</p>
 </div>
 
-<div class="images-philippines-container">
+<div class=" images-philippines-container">
     <div class="container">
         <div class="row">
             <div class="col-3">
@@ -44,9 +44,6 @@ include_once('../templates/header.php');
             </div>
             <div class="col-3">
                 <img src="../static/media/philippines/img6.JPG">
-            </div>
-            <div class="col-3">
-                <img src="../static/media/philippines/img10.JPG">
             </div>
             <div class="col-3">
                 <img src="../static/media/philippines/img8.JPG">

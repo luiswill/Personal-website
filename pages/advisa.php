@@ -46,7 +46,7 @@ include_once('../templates/header.php');
                 <h5 class="blogPost__headline">Cultural new knowledge</h5>
                 <ul class="blogPost__list">
                     <li>Huge direct contact with clients</li>
-                    <li>Reactivity</li>
+                    <li>Reactivity ⚡</li>
                     <li>Double check everything</li>
                     <li>Maintaining of a WordPress list</li>
                     <li>Being flexible</li>

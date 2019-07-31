@@ -4,7 +4,7 @@ include_once('../templates/header.php');
 <div class="blogPost">
     <div class="container">
         <div class="row">
-            <div class="category category--foodSharing col-12 col-sm-4">
+            <div class="category category--foodsharing col-12 col-sm-4">
                 <div class="overlay">
                     <div class="textImage">Food Sharing <br><span class="textImageSubheadline">Android App</span></div>
                 </div>
@@ -37,12 +37,12 @@ include_once('../templates/header.php');
                     <li>App experience</li>
                     <li>Advertisement</li>
                 </ul>
-                <div class="blogPost__iconContainer"><i class="fab fa-android"></i>
+                <div class="blogPost__iconContainer">📌
                     <div class="iconContainerText"><a href="https://play.google.com/store/apps/details?id=com.foodsharing.app">Food Sharing on
                             Play Store</a></div>
                 </div><br><br>
                 <h5 class="blogPost__headline">Other applications I made</h5>
-                <div class="blogPost__iconContainer"><i class="fab fa-android"></i>
+                <div class="blogPost__iconContainer">👤
                     <div class="iconContainerText"><a href="https://play.google.com/store/apps/developer?id=Luis+Willnat">Play Store
                             profile</a></div>
                 </div>
