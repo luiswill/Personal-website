@@ -15,7 +15,6 @@
     <link rel="icon" sizes="96x96" href="favicon-96.png" type="image/png">
 
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/static/css/grid.css">
     <link rel="stylesheet" href="/static/css/styles.css">
 
