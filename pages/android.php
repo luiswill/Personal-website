@@ -15,8 +15,8 @@ include_once('../templates/header.php');
             <ul>
             
 
-            <li><h1><a href="./foodsharing.php">Food Sharing</h1></a><br/>
-                <li><h1><a href="https://apkpure.com/tap-bitcoin-world/com.luis.bitcoinsimulation" target="_blank">Tap Bitcoin World</h1></a><br/>
+            <li><h1><a href="./foodsharing.php">Food Sharing (2017)</h1></a><br/>
+                <li><h1><a href="https://apkpure.com/tap-bitcoin-world/com.luis.bitcoinsimulation" target="_blank">Tap Bitcoin World (2017)</h1></a><br/>
                 <p><b>App description</b><br/>
                 Play a clicker game and bring your country number 1 in the world ! * Simulation Game - No real bitcoins *
 
@@ -39,7 +39,8 @@ include_once('../templates/header.php');
                     <img width="150" src="https://image.winudf.com/v2/image/Y29tLmx1aXMuYml0Y29pbnNpbXVsYXRpb25fc2NyZWVuXzFfMTUwOTYxNjA1MF8wMzM/screen-1.jpg?fakeurl=1&type=.jpg"/>
                 </li>
  <br/><br/><br/>
-                <li><h1><a href="https://androidappsapk.co/detail-niice-me/" target="_blank">Niice.me</h1></a><br/>
+                <li><h1><a href="https://androidappsapk.co/detail-niice-me/" target="_blank">Niice.me (2017)</h1></a><br/>
+
                 <p><b>App description</b><br/>
                 - Send your friends some niice words to make them smile.<br/>
 
@@ -58,6 +59,18 @@ include_once('../templates/header.php');
                     <img width="150" src="https://lh3.google.com/u/0/d/1EywDAWl4JouuiJ9zRJHovsTRlbAGCo1c=w1920-h888-iv1"/>
                     <img width="150" src="https://lh3.google.com/u/0/d/1EywDAWl4JouuiJ9zRJHovsTRlbAGCo1c=w1920-h888-iv1"/>
                     <img width="150" src="https://lh3.google.com/u/0/d/13Vwi9kC-Rcw6iXQHmy3TOrjYkLiD8PC-=w1920-h888-iv1"/>
+                </li>
+                <br/><br/><br/>
+
+                <li><h1><a href="https://apkcombo.com/smileme/com.ionicframework.swipeme568393/" target="_blank">SmileMe (2017)</h1></a><br/>
+                <p><b>App description</b><br/>
+                - Double click to send smiles ! <br>
+                    <br/>
+                    
+                    </p> 
+                    <img width="150" src="https://lh3.google.com/u/0/d/1Er4BSHDsODDQN2m4yDe_gmhUhSygTa7S=w1920-h888-iv1"/>                    
+                    <img width="150" src="https://lh3.google.com/u/0/d/1JOOz3o7ID9y0QpbKv0MMGJFOY0El2rOA=w1920-h888-iv1"/>
+                    <img width="150" src="https://lh3.google.com/u/0/d/1qBYIo-WzofQPcyM-53JGfDa1G90O3ZI_=w1920-h888-iv1"/>
                 </li>
 
             </ul>
