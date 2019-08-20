@@ -17,3 +17,9 @@ EOT;
 
     echo $html;
 }
+
+function render_meta_description($content)
+{
+    $html = '<meta name="Description" CONTENT="' . $content . '">';
+    echo $html;
+}

@@ -10,7 +10,7 @@ include_once('../templates/header.php');
                 </div>
             </div>
             <div class="blog__content col-12 col-sm-8">
-                <p>After my come-back from the two-month trip in Philippines, I was an employee in a web agency named Advisa from
+                <p>I was an employee in a web agency named Advisa from
                     January 2019 to end of August 2019 as a front-end developer.<br>
                     I was part of the TMA team, which corresponds to the team working on projects already in place. We are <i>TeaM Assistance</i>. Whenever a client has problem, our team is in charge.</p>
 

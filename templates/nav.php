@@ -35,6 +35,7 @@
         <div class="dropdown-content">
             <a href="/pages/philippines.php">Thailand / Philippines</a>
             <a href="/pages/swimming.php">Swimming Coach</a>
+            <a href="/pages/recommended.php">Interesting pages</a>
         </div>
     </div>
     <a href="/pages/contact.php">Contact</a>
