@@ -14,7 +14,7 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-            <a href="/pages/foodsharing.php">Food Sharing</a>
+            <a href="/pages/android.php">Android Applications</a>
             <a href="https://github.com/luiswill/bachelorWebComponentStyling/blob/master/thesis.pdf">Bachelor Thesis</a>
             <a href="/static/media/toefl.JPG">TOEFL</a>
         </div>

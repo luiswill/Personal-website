@@ -37,15 +37,15 @@ include_once('../templates/header.php');
                     <li>App experience</li>
                     <li>Advertisement</li>
                 </ul>
-                <div class="blogPost__iconContainer">📌
-                    <div class="iconContainerText"><a href="https://play.google.com/store/apps/details?id=com.foodsharing.app">Food Sharing on
-                            Play Store</a></div>
+                <br><br>
+                <div class="blogPost__iconContainer">
+                    <img width="150" src="https://lh3.google.com/u/0/d/1VjsBIZkeY7Aan2BFAuSCqtGlpIy89bdD=w1267-h888-iv1"/>
+                    <img width="150" src="https://lh3.google.com/u/0/d/10mtDv8Dw9NCbl1RO4ZDhGKTPuQb69xDR=w1267-h888-iv1"/>
+                    <img width="150" src="https://lh3.google.com/u/0/d/1z3DefscpuP1oqNubqIQGiBxn15R2iM3F=w1267-h888-iv1"/>
+
                 </div><br><br>
-                <h5 class="blogPost__headline">Other applications I made</h5>
-                <div class="blogPost__iconContainer">👤
-                    <div class="iconContainerText"><a href="https://play.google.com/store/apps/developer?id=Luis+Willnat">Play Store
-                            profile</a></div>
-                </div>
+                <h5 class="blogPost__headline"><a href="./android.php">Other applications I made</a></h5>
+
             </div>
         </div>
     </div>
