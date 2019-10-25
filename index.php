@@ -32,10 +32,6 @@ include_once('templates/header.php');
     </div>
 </div>
 
-<p>Number of visits : </p>
-<div><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-bzAa426cZA7Bzx6c-15.gif' border='0' alt='free web counter'></a>
-    <script type='text/javascript' src='https://www.counter12.com/ad.js?id=bzAa426cZA7Bzx6c'></script>
-</div>
 <?php
 include_once('./templates/footer.php');
 ?>

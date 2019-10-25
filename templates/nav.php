@@ -36,8 +36,12 @@
             <a href="/pages/philippines.php">Thailand / Philippines</a>
             <a href="/pages/swimming.php">Swimming Coach</a>
             <a href="/pages/recommended.php">Interesting pages</a>
+            <a href="/pages/miage.php">System Information reading</a>
         </div>
     </div>
     <a href="/pages/contact.php">Contact</a>
+    <a href="https://docs.google.com/document/d/1R2BUQ3444Xbv11Y0qiUg0CPsWlC5hOOOEIMuGcpKohk/edit?usp=sharing" target="_blank" style="background: #4caf50;">English CV</a>
+    <a href="https://docs.google.com/document/d/1CSBUj1kdA2b_eVo1lz_kaQeLKvqjfSDWzDVk8aMSXfs/edit?usp=sharing" target="_blank" style="background: #4caf50;">French CV</a>
+
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </nav>
