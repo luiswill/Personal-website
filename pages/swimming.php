@@ -16,8 +16,11 @@ include_once('../templates/header.php');
                 <br><br>
                 Timeline : <br>
                 <ul>
+                    <li><b>[2020]</b><a href="https://www.ffnatation.fr/filieres-formations"> BF2 - Brevet Federal 2</a>, diplom to train young swimmers in competition</li>
+                    <li><b>[2019-2020]</b><a href="http://ncalp38.com/"> NC'ALP 38</a> Teaching 9h/week during 6 months different groups : kids from (4-10 years old), competition swimmers and adults (16+)
+                    <li><b>[2019]</b><a href="http://team-strasbourg.fr/"> Team Stras</a> Teaching 8h/week different groups : kids from (4-10 years old) and adults (16+)
                     <li><b>[2013]</b><a href="https://www.ffnatation.fr/filieres-formations"> BF1 - Brevet Federal 1</a>, diplom to initiate young kids in a new element that they are not used to (4-7 years old)</li>
-                    <li><b>[2019]</b><a href="http://team-strasbourg.fr/"> Team Stras</a> Teaching 8h/week during 6 months different groups : kids from (4-10 years old) and adults perfecting group (16+)
+
                 </ul>
 
                 <h3><a href="/swimming/">Swimming dashboard</a> </h3>
