@@ -420,6 +420,10 @@ include_once($_SERVER['DOCUMENT_ROOT'] . "/utils/functions.php");
             background-image: linear-gradient(to right top, #00b950, #00ca49, #00dc3f, #00ed2d, #0f0)
         }
 
+        .category--elife {
+            background-image: linear-gradient(to right top,#26b7c1,#1ad6c7,#54c1d0,#47d6d6,#13bbbb);
+        }
+
         .category--advisa {
             background: #b8a0ba;
             background: -moz-linear-gradient(top, #b8a0ba 40%, #a082a4 100%);

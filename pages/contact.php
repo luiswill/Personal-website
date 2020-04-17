@@ -9,7 +9,7 @@ include_once('../templates/header.php');
         <div class="row">
 
 
-            <img height="200" class="profilePicture" src="https://lh3.google.com/u/1/d/0B_kvN0LpLV2yOXpITEJyVTFmLTQ=w1366-h598-iv1">
+            <img height="200" class="profilePicture" src="../static/media/bewerbungsFoto.png">
 
             <p>Email : <a href="mailto:luis.willnat.lw@gmail.com">luis.willnat.lw@gmail.com</a></p>
             <p>LinkedIn : <a href="www.linkedin.com/in/luiswillnat">www.linkedin.com/in/luiswillnat</a></p>

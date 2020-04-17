@@ -28,8 +28,12 @@ body {
     background-image: linear-gradient(to right top,#00b950,#00ca49,#00dc3f,#00ed2d,#0f0);
 }
 
+.category--elife {
+  background-image: linear-gradient(to right top,#14d8e6,#74f8ed,#46e9ff,#66ffff,#67ffff);
+}
+
+
 .category--advisa {
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b8a0ba+40,a082a4+100 */
 background: #b8a0ba; /* Old browsers */
 background: -moz-linear-gradient(top, #b8a0ba 40%, #a082a4 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(top, #b8a0ba 40%,#a082a4 100%); /* Chrome10-25,Safari5.1-6 */
@@ -56,6 +60,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b35678', end
 .category--swimming {
   background: rgb(33,144,245);
 background: linear-gradient(0deg, rgba(33,144,245,1) 20%, rgba(7,97,238,1) 86%);
+}
+
+
+.category--elife {
+  background: rgb(5, 205, 255);
+  background: linear-gradient(0deg, rgb(32, 226, 252) 20%, rgb(0, 225, 255) 86%);
 }
 
 .overlay {
@@ -90,11 +100,11 @@ background: linear-gradient(0deg, rgba(33,144,245,1) 20%, rgba(7,97,238,1) 86%);
     font-size: 20px;
 }
 
-.category--philippines .textImageSubheadline, .category--master .textImageSubheadline, .category--isfates .textImageSubheadline {
+.category--philippines .textImageSubheadline, .category--master .textImageSubheadline, .category--isfates .textImageSubheadline, .category--elife .textImageSubheadline {
     font-size: 20px;
 }
 
-.category--philippines .textImage, .category--isfates .textImage, .category--master .textImage {
+.category--philippines .textImage, .category--isfates .textImage, .category--master .textImage, .category--elife .textImage {
     font-size: 25px;
 }
 

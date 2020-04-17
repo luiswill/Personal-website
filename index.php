@@ -12,13 +12,15 @@ include_once('templates/header.php');
     </div>
 
     <div class="no-gutters row">
-        <?php luis_display_home_block('grenoble', 'Grenoble', 'Master Business Informatics'); ?>
+        <?php luis_display_home_block('grenoble', 'Grenoble', 'Business Informatics'); ?>
 
-        <?php luis_display_home_block('vi', 'Virtual Identity', 'Internship'); ?>
+        <?php luis_display_home_block('vi', 'Virtual Identity', 'Front-end Internship'); ?>
+
+        <?php luis_display_home_block('elife', 'Elife', 'Angular 9 / Firebase'); ?>
 
         <?php luis_display_home_block('philippines', 'Thailand / Philippines', 'Solo trip'); ?>
 
-        <?php luis_display_home_block('foodsharing', 'Food Sharing', 'Android App'); ?>
+        <?php luis_display_home_block('foodsharing', 'Food Sharing', 'Angular / Android'); ?>
 
         <?php luis_display_home_block('isfates', 'Bachelor Computer of Sciences', 'Binational studies'); ?>
 

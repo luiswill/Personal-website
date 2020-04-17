@@ -16,7 +16,7 @@ include_once('../templates/header.php');
 
     <P>Salamat po to Ivan (I know what you doing haha), Kakay, Ahmed (Yalla) and Nacho (guitar guy)</P>
 
-    <p>Special feelings to the cute Strasbourgeoise : Emma 🌸</p>
+    <p>Special feelings to a cute Strasbourgeoise 🌸</p>
 
 
     <p>Some pics of the trip</p>

@@ -6,11 +6,12 @@ include_once('../templates/header.php');
         <div class="row">
             <div class="category category--foodsharing col-12 col-sm-4">
                 <div class="overlay">
-                    <div class="textImage">Food Sharing <br><span class="textImageSubheadline">Android App</span></div>
+                    <div class="textImage">Food Sharing <br><span class="textImageSubheadline">Angular/Ionic</span></div>
                 </div>
             </div>
             <div class="blog__content col-12 col-sm-8">
-                <p>I had the chance to have the time to learn the ecosystem Android on my own. <br>Food Sharing is
+                <p>This app was built with Ionic 2 on top of Angular 4.<br>
+                    Food Sharing is
                     an app where a user (sign up via Facebook or Google) scans a product's barcode which will be
                     pinned on the map. <br>All users in a radius of 10 minutes walking (calculated via <a href="https://cloud.google.com/maps-platform/?hl=fr">Google Maps API</a>) will get alerted
                     by a notification.<br>Users are able to send messages between them in order to faciliate the
@@ -18,6 +19,7 @@ include_once('../templates/header.php');
                 <h5 class="blogPost__headline">Content</h5>
                 <ul class="blogPost__list">
                     <li>HTML/CSS and JavaScript</li>
+                    <li>Angular 4</li>
                     <li><a href="https://ionicframework.com/">Ionic Framework</a></li>
                     <li>Cordova</li>
                     <li>Firebase</li>
@@ -39,9 +41,9 @@ include_once('../templates/header.php');
                 </ul>
                 <br><br>
                 <div class="blogPost__iconContainer">
-                    <img width="150" src="https://lh3.google.com/u/0/d/1VjsBIZkeY7Aan2BFAuSCqtGlpIy89bdD=w1267-h888-iv1"/>
-                    <img width="150" src="https://lh3.google.com/u/0/d/10mtDv8Dw9NCbl1RO4ZDhGKTPuQb69xDR=w1267-h888-iv1"/>
-                    <img width="150" src="https://lh3.google.com/u/0/d/1z3DefscpuP1oqNubqIQGiBxn15R2iM3F=w1267-h888-iv1"/>
+                    <img width="150" src="../static/media/screenshotFoodSharing1.png" />
+                    <img width="150" src="../static/media/screenshotFoodSharing2.png" />
+                    <img width="150" src="../static/media/screenshotFoodSharing3.png" />
 
                 </div><br><br>
                 <h5 class="blogPost__headline"><a href="./android.php">Other applications I made</a></h5>

@@ -14,9 +14,11 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
+            <a href="/pages/elife.php">Elife Angular 9</a>
+            <a href="/pages/foodsharing.php">Food Sharing Angular 4</a>
             <a href="/pages/android.php">Android Applications</a>
             <a href="https://github.com/luiswill/bachelorWebComponentStyling/blob/master/thesis.pdf">Bachelor Thesis</a>
-            <a href="/static/media/toefl.JPG">TOEFL</a>
+            <a href="https://drive.google.com/file/d/1w9eYQpwREd-0NRLDOUn9ZA8ocniBt44z/view?usp=sharing">TOEFL</a>
         </div>
     </div>
     <div class="dropdown">
