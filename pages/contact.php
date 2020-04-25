@@ -6,7 +6,7 @@ include_once('../templates/header.php');
 
 <div class="blogPost">
     <div class="container">
-        <div class="row">
+        <div class="row" style="text-align: center">
 
 
             <img height="200" class="profilePicture" src="../static/media/bewerbungsFoto.png">

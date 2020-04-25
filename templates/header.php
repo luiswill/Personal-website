@@ -420,6 +420,10 @@ include_once($_SERVER['DOCUMENT_ROOT'] . "/utils/functions.php");
             background-image: linear-gradient(to right top, #00b950, #00ca49, #00dc3f, #00ed2d, #0f0)
         }
 
+        .category--godot {
+            background-image: linear-gradient(to right top, #00b950, #00ca49, #00dc3f, #00ed2d, #0f0)
+        }
+
         .category--elife {
             background-image: linear-gradient(to right top,#26b7c1,#1ad6c7,#54c1d0,#47d6d6,#13bbbb);
         }
@@ -590,13 +594,21 @@ include_once($_SERVER['DOCUMENT_ROOT'] . "/utils/functions.php");
             z-index: 1
         }
 
-        .dropdown-content a {
+        .dropdown-content a, .dropdown-content span {
             float: none;
             color: #000;
             padding: 12px 16px;
             text-decoration: none;
             display: block;
             text-align: left
+        }
+
+        .dropdown-content span {
+            padding-bottom: 0;
+        }
+
+        .dropdown-content span ul {
+            margin: 0;
         }
 
         .dropdown:hover .dropbtn,

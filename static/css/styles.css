@@ -222,6 +222,7 @@ footer h5 {
   text-decoration: none;
   display: block;
   text-align: left;
+  font-size: 17px;
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {

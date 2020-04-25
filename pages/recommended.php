@@ -10,7 +10,11 @@ include_once('../templates/header.php');
             <h3>🌌 Universe </h3>
             <ul>
                 <li><a href="http://www.astronoo.com/fr/articles/taille-de-l-univers.html">http://www.astronoo.com/fr/articles/taille-de-l-univers.html</a> - True size of the universe</li>
+                <li><a href="https://www.youtube.com/watch?v=R3tbVHlsKhs">https://www.youtube.com/watch?v=R3tbVHlsKhs</a> Does time exist ? </li>
+                <li><a href="https://www.youtube.com/playlist?list=PL5VOrzbYMeOCzDjmJtHObFpehD8WacsM5">https://www.youtube.com/playlist?list=PL5VOrzbYMeOCzDjmJtHObFpehD8WacsM5</a> My scientific youtube playlist </li>
             </ul>
+
+            
 
             <h3>👨 Management </h3>
             <ul>

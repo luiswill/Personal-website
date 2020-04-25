@@ -35,10 +35,8 @@ include_once('../templates/header.php');
 
                         </p>
 
-                        <img width="150" src="https://image.winudf.com/v2/image/Y29tLmx1aXMuYml0Y29pbnNpbXVsYXRpb25fc2NyZWVuXzBfMTUwOTYxNjA0OF8wMDQ/screen-0.jpg?fakeurl=1&type=.jpg" />
-                        <img width="150" src="https://image.winudf.com/v2/image/Y29tLmx1aXMuYml0Y29pbnNpbXVsYXRpb25fc2NyZWVuXzNfMTUwOTYxNjA1Ml8wMzE/screen-3.jpg?fakeurl=1&type=.jpg" />
-                        <img width="150" src="https://image.winudf.com/v2/image/Y29tLmx1aXMuYml0Y29pbnNpbXVsYXRpb25fc2NyZWVuXzRfMTUwOTYxNjA1M18wNjE/screen-4.jpg?fakeurl=1&type=.jpg" />
-                        <img width="150" src="https://image.winudf.com/v2/image/Y29tLmx1aXMuYml0Y29pbnNpbXVsYXRpb25fc2NyZWVuXzFfMTUwOTYxNjA1MF8wMzM/screen-1.jpg?fakeurl=1&type=.jpg" />
+                        <img width="150" src="../static/media/android/tapBitcoin1.jpg" />
+
                     </li>
                     <br /><br /><br />
                     <li>

@@ -20,7 +20,7 @@ include_once('templates/header.php');
 
         <?php luis_display_home_block('philippines', 'Thailand / Philippines', 'Solo trip'); ?>
 
-        <?php luis_display_home_block('foodsharing', 'Food Sharing', 'Angular / Android'); ?>
+        <?php luis_display_home_block('godot', 'Godot', 'Game development'); ?>
 
         <?php luis_display_home_block('isfates', 'Bachelor Computer of Sciences', 'Binational studies'); ?>
 

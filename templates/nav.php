@@ -14,11 +14,15 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-            <a href="/pages/elife.php">Elife Angular 9</a>
-            <a href="/pages/foodsharing.php">Food Sharing Angular 4</a>
+
+        <span>Angular
+            <ul>
+                <li><a href="/pages/elife.php" >Angular 9 - Elife </a></li>
+                <li><a href="/pages/foodsharing.php">Angular 4 & Ionic - Food Sharing</a></li>
+            </ul></span>
+           <a href="pages/godot">Godot - Game Development</a>
             <a href="/pages/android.php">Android Applications</a>
-            <a href="https://github.com/luiswill/bachelorWebComponentStyling/blob/master/thesis.pdf">Bachelor Thesis</a>
-            <a href="https://drive.google.com/file/d/1w9eYQpwREd-0NRLDOUn9ZA8ocniBt44z/view?usp=sharing">TOEFL</a>
+
         </div>
     </div>
     <div class="dropdown">
@@ -26,6 +30,8 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
+            <a href="https://github.com/luiswill/bachelorWebComponentStyling/blob/master/thesis.pdf">Bachelor Thesis</a>
+            <a href="https://drive.google.com/file/d/1w9eYQpwREd-0NRLDOUn9ZA8ocniBt44z/view?usp=sharing">TOEFL</a>
             <a href="/pages/isfates.php">Bachelor ISFATES</a>
             <a href="/pages/erasmus.php">ERASMUS Ireland</a>
         </div>
