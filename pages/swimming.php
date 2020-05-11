@@ -23,7 +23,7 @@ include_once('../templates/header.php');
 
                 </ul>
 
-                <h3><a href="/swimming/pages/index.php">Swimming dashboard</a> </h3>
+               <!-- <h3><a href="/swimming/pages/index.php">Swimming dashboard</a> </h3> -->
 
 
                 <img width="350" src="https://lh3.googleusercontent.com/-NB5I7aKgRcN4vJAhS2x3JfV3j5JtVSlUHJ-Kqck-MD62lJXljdZWD7OaGyX4dgVW5PnzaKjFg9yjWu8oNsAF6XZCnaRR-OZvH8geM80fg6wMRy_ubikbGrs7k7YLAKq3eYMWSbNkgfsJ0Z7tw3KwbR2kgXQ8d1ahrOH9kSZ9x6UhCqiy1IG9Y56bGjSPSHIm39P18rvu1oHjUuDIDqHhrcjX1DzNVsWwmULH2OxHBfBhF2X11v2A8l2fNrSI7FknlnSPaSlm3JJTKXKM1sFUuq28qUqpZXCwORh6Y2zHKrxVlFgkCOMpnrB_SDP7VoTIKJfhBvLNqN1OJbymLquWdCF6AJIdHUfaJCh0c8g1kpTKrmfRvEFp43qa9RuqYB69HL0ocyyOaF6KXNRo76PYwiK_weQuCW-xhGSh82naEdqUPQtCYQdmC5RiHIwYjOKnPB7K0PwZyN7JwGXgHlq-W_S0Rjt3SbzNswDc3PpsUB5NuLsxhPwNo7-DSTwPgHNPTSQy37C7qsocxIiAWB_Kz_KvzZRCiWS3q5xCvsviIxndfA4MozJrY3ETwNr14zNmqb-SZFRoK4OPj6k-Z_mgb7c4HAH8agfWdtPTlpOtc7XycTXc1exeTNxkUY5UA=w1366-h647">

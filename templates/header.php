@@ -420,6 +420,11 @@ include_once($_SERVER['DOCUMENT_ROOT'] . "/utils/functions.php");
             background-image: linear-gradient(to right top, #00b950, #00ca49, #00dc3f, #00ed2d, #0f0)
         }
 
+        .category--geocashing {
+            background-image: linear-gradient(180deg,  #8b02d1, #a61eeb,#b942f5, #ad2bf0, #bf42ff)
+        }
+
+
         .category--godot {
             background-image: linear-gradient(to right top, #00b950, #00ca49, #00dc3f, #00ed2d, #0f0)
         }

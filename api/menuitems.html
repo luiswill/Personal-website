@@ -1,0 +1,20 @@
+<script>
+    console.log("Hello world");
+
+    var data = null;
+
+    var xhr = new XMLHttpRequest();
+    xhr.withCredentials = true;
+
+    xhr.addEventListener("readystatechange", function () {
+    if (this.readyState === this.DONE) {
+        console.log(this.responseText);
+    }
+    });
+
+    xhr.open("GET", "https://skiptheline.p.rapidapi.com/menuitems");
+    xhr.setRequestHeader("x-rapidapi-host", "skiptheline.p.rapidapi.com");
+    xhr.setRequestHeader("x-rapidapi-key", "6c222abc57msh8924b1a1a5f4944p1c361cjsnbeb9b12cc100");
+
+    xhr.send(data);
+</script>

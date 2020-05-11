@@ -7,7 +7,7 @@ include_once('templates/header.php');
 
     <div class="row">
         <div class="introHome"><b class="headline">Hi, I'm Luis ✌️</b> <br>
-            <p>I'm a passionate software student. I love swimming and tech in general 🏊💻</p>
+            <p>I'm a passionate software student. I love to eat, swim and <a href="https://www.marmiton.org/recettes/recette_la-vraie-tartiflette_17634.aspx">tartiflette</a> 🏊</p>
         </div>
     </div>
 
@@ -15,6 +15,8 @@ include_once('templates/header.php');
         <?php luis_display_home_block('grenoble', 'Grenoble', 'Business Informatics'); ?>
 
         <?php luis_display_home_block('vi', 'Virtual Identity', 'Front-end Internship'); ?>
+
+        <?php luis_display_home_block('geocashing', 'Geo Cashing', 'NativeScript / Angular hybrid app'); ?>
 
         <?php luis_display_home_block('elife', 'Elife', 'Angular 9 / Firebase'); ?>
 
